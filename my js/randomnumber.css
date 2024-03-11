@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(113, 231, 192);
+}
+#mybutton{
+    width: 150px;
+    border-radius: 2px;
+    background-color: rgb(221, 65, 65);
+    color: #fff;
+    cursor: pointer;
+    height: 50px;
+    border: 1px transparent;
+    margin-left: 45%;
+    margin-top: 20%;
+}
+
+#mybutton:hover{
+    background-color: rgb(92, 92, 230);
+    color: black;
+}
+
+.mylabel{
+ color: rgb(143, 11, 66);
+ font-size: 30px;
+ margin-left: 49%;
+ 
+}
